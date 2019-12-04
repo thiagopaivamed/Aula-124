@@ -9,5 +9,7 @@ namespace AluguelCarro.AcessoDados.Interfaces
     public interface INivelAcessoRepositorio : IRepositorioGenerico<NiveisAcesso>
     {
         Task<bool> NivelAcessoExiste(string nivelAcesso);
+        
+        new Task Atualizar(NiveisAcesso niveisAcesso);
     }
 }
