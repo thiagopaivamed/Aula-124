@@ -91,6 +91,7 @@ namespace AluguelCarro.Controllers
             if (ModelState.IsValid)
             {
 
+                niveisAcesso.NormalizedName = niveisAcesso.Name.ToUpper();
                 await _nivelAcessoRepositorio.Atualizar(niveisAcesso);
                 _logger.LogInformation("Nível atualizado");
                 return RedirectToAction("Index", "NiveisAcessos");
