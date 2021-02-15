@@ -1,7 +1,9 @@
-# Aula 124
+## Aula 124
 
-Curso ASP.NET CORE MVC 2
+# Projeto - Aluguel de Carros 
+## Projeto do curso de ASP NET CORE MVC 2 : Do Básico ao Avançado 
 
-Projeto - Alguel Carros
+Conheça o curso - [ASP NET CORE MVC 2 : Do Básico ao Avançado](https://bit.ly/netcoremvc2) 
 
-Se inscreva no curso - https://www.udemy.com/asp-net-core-mvc-2-do-basico-ao-avancado/?couponCode=GITHUB
+# Conheça nosso canal no Youtube
+Conheça o canal - [Programação binária](https://bit.ly/canalytpor)  
